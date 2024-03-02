@@ -1,7 +1,8 @@
 # AuthenticationAPI
 
-API for authentication and management of users, roles and applications with verification of claims and roles for secure access to endpoints. Tech Stack
+API for authentication and management of users, roles and applications with verification of claims and roles for secure access to endpoints. 
 
+# Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=azure,cs,dotnet,git)](https://skillicons.dev)
 
